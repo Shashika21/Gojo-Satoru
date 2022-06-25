@@ -15,11 +15,11 @@ global.APIs = {
 
 //Api Key\\
 global.APIKeys = {
-	'https://zenzapis.xyz': 'sanzychan01', //credit goes to sanzy yt, if api key expire, buy it and put it here?\\
+	https://zenzapis.xyz': 'aXM3eUp2QVU=',
 }
 
 //customize settings\\
-global.owner = ['Nimesh SNR']
+global.owner = ['94740219072']
 global.premium = ['Nimesh SNR']
 global.ownernomer = '94740219072'
 global.ownername = 'Nimesh SNR'
